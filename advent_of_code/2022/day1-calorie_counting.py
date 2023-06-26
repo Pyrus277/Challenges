@@ -1,6 +1,7 @@
-# AOC Day 1 - Part 1
+# AOC Day 1 - Calorie Counting
 
 '''
+Procedure:
 1. Read txt file without new lines 
 2. Newlines will be '', convert these to zeroes
 3. Map the strings into ints
